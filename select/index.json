@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "虚飾のキス",
+  "base_artist": "shallm",
+  "createdAt": "2025-12-09T07:24:58.642317Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "虚飾のキス",
+      "artist": "shallm",
+      "has_synced": false,
+      "path": "select/pl_01_虚飾のキス_shallm.txt"
+    }
+  ]
+}
